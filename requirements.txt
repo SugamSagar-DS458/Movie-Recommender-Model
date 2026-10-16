@@ -1,6 +1,0 @@
-ipykernel
-streamlit
-pandas
-numpy
-scikit-learn
-requests
